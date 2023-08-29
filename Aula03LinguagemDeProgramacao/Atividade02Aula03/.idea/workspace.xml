@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b11876eb-26dd-4d25-b88a-7310dfd3ca54" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Aula03LinguagemDeProgramacao.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Atividade03Aula03/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Atividade03Aula03/src/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade03Aula03/src/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Atividade02Aula03/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Atividade02Aula03/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Atividade03Aula03/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Atividade03Aula03/Main.class" beforeDir="false" />
-    </list>
+    <list default="true" id="b11876eb-26dd-4d25-b88a-7310dfd3ca54" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,22 +17,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2UfeacWTeh2g3JIOIylgSn3ttgt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "D:/dev/Aula03LinguagemDeProgramacao/Atividade02Aula03/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/dev/Aula03LinguagemDeProgramacao/Atividade02Aula03/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
