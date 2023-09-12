@@ -35,6 +35,11 @@ public class Main {
                 System.out.println("-----------------------");
 
                 diretor.mostrarDados();
+                break;
+
+            default:
+                System.out.println("Opção invalida!");
+                break;
         }
     }
 }
